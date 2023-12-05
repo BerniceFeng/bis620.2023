@@ -55,7 +55,6 @@ This feature provides a clear view of trial progress and results, so clinical tr
 
 
 ## Example
-
 This is a basic example which we use in shinyApp to demonstrate different phases:
 
 ```{r, example, message=FALSE,warning =FALSE}
