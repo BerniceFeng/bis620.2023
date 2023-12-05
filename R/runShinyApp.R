@@ -13,7 +13,7 @@
 #' @import sf
 #' @import rnaturalearth
 #' @import rnaturalearthdata
-#' @importFrom utils head install.packages
+#' @importFrom utils head install.packages data
 #' @importFrom stats na.omit
 #'
 #' @return
