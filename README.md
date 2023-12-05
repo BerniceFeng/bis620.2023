@@ -28,7 +28,7 @@ You can install the development version of bis620.2023 from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("XunyunWan/bis620.2023")
+devtools::install_github("BerniceFeng/bis620.2023")
 ```
 
 ## Feature
@@ -98,4 +98,4 @@ bis620.2023:::plot_phase_histogram(studies)
 ## Test Coverage
 
 Clike the link below to see details of test coverage:
-<https://app.codecov.io/github/XunyunWan/bis620.2023/tree/main/R>
+<https://app.codecov.io/github/BerniceFeng/bis620.2023/tree/main/R>
